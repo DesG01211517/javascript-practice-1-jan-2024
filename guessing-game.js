@@ -10,10 +10,15 @@ startButton.onclick = function () {
 
     let guess = parseInt(g);
 
-    if(guess === 7) {
+    if(guess === 6) {
         alert("You got it!");
+        body1.style.backgroundColor = "#0d6efd";
+        resultDiv.textContent = "You win";
     }  else  {
         alert("No!");
+        resultDiv.textContent = "You Lose" 
+        body1.style.backgroundColor = "green";
+
     }
 
     alert("Thanks for playing!");
