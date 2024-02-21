@@ -16,7 +16,7 @@ startButton.onclick = function () {
         resultDiv.textContent = "You win";
     }  else  {
         alert("No!");
-        resultDiv.textContent = "You Lose" 
+        resultDiv.textContent = "You Lose";
         body1.style.backgroundColor = "green";
 
     }
