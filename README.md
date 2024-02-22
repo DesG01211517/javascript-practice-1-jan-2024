@@ -6,7 +6,8 @@ A place for me to practice and demo JavaScript
 
 This repo will contain several demos including:
 
-* guessing-game.html - a simple guess the number game
+- guessing-game.html - a simple guess the number game
+- https://replit.com/@desmongarrison2/JavaScript-Practice-Week-1-Day-2#index.js
 
 ## Built With
 
@@ -24,7 +25,7 @@ This repo will contain several demos including:
 
 ## Contact
 
-Author: 
+Author: Desmon Garrison email=desmongarrison2@gmail.com
 
 ## Acknowledgements
 
