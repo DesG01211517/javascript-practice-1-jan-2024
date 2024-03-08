@@ -8,6 +8,7 @@ This repo will contain several demos including:
 
 - guessing-game.html - a simple guess the number game
 - https://replit.com/@desmongarrison2/JavaScript-Practice-Week-1-Day-2#index.js
+- https://replit.com/@desmongarrison2/JavaScript-Practice-Week-1-Day-3
 
 ## Built With
 
@@ -19,13 +20,13 @@ This repo will contain several demos including:
 ## Roadmap
 
 - [x] guessing-game.html
-- [ ] guessing-game.js
-- [ ] a button that triggers the game to start
-- [ ] design visual indications of winning or losing
+- [x] guessing-game.js
+- [x] a button that triggers the game to start
+- [x] design visual indications of winning or losing
 
 ## Contact
 
-Author: Desmon Garrison email=desmongarrison2@gmail.com
+Author: Desmon Garrison email = desmongarrison2@gmail.com
 
 ## Acknowledgements
 
